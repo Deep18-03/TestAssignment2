@@ -1,0 +1,26 @@
+D:\Gateway Group of Companies\Assignments\TestingAssignment2\bin\Debug\netcoreapp3.1\TestingAssignment2.exe
+D:\Gateway Group of Companies\Assignments\TestingAssignment2\bin\Debug\netcoreapp3.1\TestingAssignment2.deps.json
+D:\Gateway Group of Companies\Assignments\TestingAssignment2\bin\Debug\netcoreapp3.1\TestingAssignment2.runtimeconfig.json
+D:\Gateway Group of Companies\Assignments\TestingAssignment2\bin\Debug\netcoreapp3.1\TestingAssignment2.runtimeconfig.dev.json
+D:\Gateway Group of Companies\Assignments\TestingAssignment2\bin\Debug\netcoreapp3.1\TestingAssignment2.dll
+D:\Gateway Group of Companies\Assignments\TestingAssignment2\bin\Debug\netcoreapp3.1\TestingAssignment2.pdb
+D:\Gateway Group of Companies\Assignments\TestingAssignment2\obj\Debug\netcoreapp3.1\TestingAssignment2.csprojAssemblyReference.cache
+D:\Gateway Group of Companies\Assignments\TestingAssignment2\obj\Debug\netcoreapp3.1\TestingAssignment2.AssemblyInfoInputs.cache
+D:\Gateway Group of Companies\Assignments\TestingAssignment2\obj\Debug\netcoreapp3.1\TestingAssignment2.AssemblyInfo.cs
+D:\Gateway Group of Companies\Assignments\TestingAssignment2\obj\Debug\netcoreapp3.1\TestingAssignment2.csproj.CoreCompileInputs.cache
+D:\Gateway Group of Companies\Assignments\TestingAssignment2\obj\Debug\netcoreapp3.1\TestingAssignment2.dll
+D:\Gateway Group of Companies\Assignments\TestingAssignment2\obj\Debug\netcoreapp3.1\TestingAssignment2.pdb
+D:\Gateway Group of Companies\Assignments\TestingAssignment2\obj\Debug\netcoreapp3.1\TestingAssignment2.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\Compressed\gateway-master\TestingAssignment2\TestingAssignment2\bin\Debug\netcoreapp3.1\TestingAssignment2.exe
+C:\Users\ASUS\Downloads\Compressed\gateway-master\TestingAssignment2\TestingAssignment2\bin\Debug\netcoreapp3.1\TestingAssignment2.deps.json
+C:\Users\ASUS\Downloads\Compressed\gateway-master\TestingAssignment2\TestingAssignment2\bin\Debug\netcoreapp3.1\TestingAssignment2.runtimeconfig.json
+C:\Users\ASUS\Downloads\Compressed\gateway-master\TestingAssignment2\TestingAssignment2\bin\Debug\netcoreapp3.1\TestingAssignment2.runtimeconfig.dev.json
+C:\Users\ASUS\Downloads\Compressed\gateway-master\TestingAssignment2\TestingAssignment2\bin\Debug\netcoreapp3.1\TestingAssignment2.dll
+C:\Users\ASUS\Downloads\Compressed\gateway-master\TestingAssignment2\TestingAssignment2\bin\Debug\netcoreapp3.1\TestingAssignment2.pdb
+C:\Users\ASUS\Downloads\Compressed\gateway-master\TestingAssignment2\TestingAssignment2\obj\Debug\netcoreapp3.1\TestingAssignment2.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Compressed\gateway-master\TestingAssignment2\TestingAssignment2\obj\Debug\netcoreapp3.1\TestingAssignment2.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\Compressed\gateway-master\TestingAssignment2\TestingAssignment2\obj\Debug\netcoreapp3.1\TestingAssignment2.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\Compressed\gateway-master\TestingAssignment2\TestingAssignment2\obj\Debug\netcoreapp3.1\TestingAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Compressed\gateway-master\TestingAssignment2\TestingAssignment2\obj\Debug\netcoreapp3.1\TestingAssignment2.dll
+C:\Users\ASUS\Downloads\Compressed\gateway-master\TestingAssignment2\TestingAssignment2\obj\Debug\netcoreapp3.1\TestingAssignment2.pdb
+C:\Users\ASUS\Downloads\Compressed\gateway-master\TestingAssignment2\TestingAssignment2\obj\Debug\netcoreapp3.1\TestingAssignment2.genruntimeconfig.cache
